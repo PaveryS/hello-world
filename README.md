@@ -1,3 +1,3 @@
 # hello-world
-**Hello, word!!**
+**Hello, world!!**
 'print(Hello, world!!!)'
